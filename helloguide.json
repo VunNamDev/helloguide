@@ -1,0 +1,18 @@
+[
+  {
+    "thumb": "https://www.w3schools.com/w3css/img_lights.jpg",
+    "name": "ACT 1",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "thumb": "https://preview.keenthemes.com/metronic-v4/theme/assets/global/plugins/jcrop/demos/demo_files/image1.jpg",
+    "name": "ACT 2",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "thumb": "https://www.online-image-editor.com/styles/2019/images/power_girl.png",
+    "name": "ACT 3",
+    "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  { "thumb": "https://www.w3schools.com/w3images/fjords.jpg", "name": "Final ACT", "video": "video" }
+]
