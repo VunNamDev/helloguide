@@ -1,18 +1,22 @@
 [
   {
-    "thumb": "img_lights.jpg",
+    "thumb": "ic_1.png",
     "name": "ACT 1",
-    "video": "BigBuckBunny.mp4"
+    "video": "act1.mp4"
   },
   {
-    "thumb": "image1.jpg",
+    "thumb": "ic_2.png",
     "name": "ACT 2",
-    "video": "BigBuckBunny2.mp4"
+    "video": "act2.mp4"
   },
   {
-    "thumb": "power_girl.png",
+    "thumb": "ic_3.png",
     "name": "ACT 3",
-    "video": "BigBuckBunny3.mp4"
+    "video": "act3.mp4"
   },
-  { "thumb": "https://www.w3schools.com/w3images/fjords.jpg", "name": "Final ACT", "video": "video" }
+  {
+    "thumb": "ic_4.png",
+    "name": "Final ACT",
+    "video": "act4.mp4"
+  }
 ]
